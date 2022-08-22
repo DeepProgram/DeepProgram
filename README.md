@@ -2,11 +2,11 @@
 <h3 align="center">Python Backend Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/qgQUggAC3Pfv687qPC.gif"
 
-- 🌱 I’m currently learning **FastAPI, ReactJS, Unit Testing**
+🌱 I’m currently learning **FastAPI, ReactJS, Unit Testing**
 
-- 💬 Ask me about **python, javascript, reactjs**
+💬 Ask me about **python, javascript, reactjs**
 
-- 📫 How to reach me **deepsarker01@gmail.com**
+📫 How to reach me **deepsarker01@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
